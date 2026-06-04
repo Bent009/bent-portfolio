@@ -8,7 +8,7 @@ Mahasiswa Teknik Informatika Semester 2.
 
 ## 1. TON Marketplace Dashboard
 
-![Marketplace](screenshots/marketplace.png)
+![Marketplace](The_Old_Norse_Portfolio.png)
 
 Marketplace berbasis web untuk komunitas FiveM.
 
@@ -31,7 +31,7 @@ https://github.com/Bent009/bot-fivem-azure
 
 ## 2. TON Inventory Management System
 
-![Inventory](screenshots/inventory.png)
+![Inventory](TON_Inventory_Portfolio.png)
 
 Dashboard inventaris real-time menggunakan Firebase.
 
@@ -53,7 +53,7 @@ https://github.com/Bent009/botdc
 
 ## 3. Discord Bot FiveM Utility
 
-![Discord Bot](screenshots/discordbot.png)
+![Discord Bot](TON_BOT_Portfolio.png)
 
 Bot Discord untuk monitoring server FiveM.
 

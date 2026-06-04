@@ -25,7 +25,7 @@ Marketplace berbasis web untuk komunitas FiveM.
 - Google Apps Script
 
 Repository:
-https://github.com/Bent009/bot-fivem-azure
+https: -
 
 ---
 
@@ -47,7 +47,7 @@ Dashboard inventaris real-time menggunakan Firebase.
 - Firestore
 
 Repository:
-https://github.com/Bent009/botdc
+https: -
 
 ---
 
@@ -69,4 +69,4 @@ Bot Discord untuk monitoring server FiveM.
 - Express.js
 
 Repository:
-https://github.com/Bent009/bot-fivem
+https: -
